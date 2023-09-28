@@ -1,6 +1,6 @@
 <h1>Project -React-According-Project</h1>
-<img src='\src\component\menu1.png'/>
-<img src='\src\component\menu2.png'/>
+<img src='\src\assets\menu1.png'/>
+<img src='\src\assets\menu2.png'/>
 <h2>Project Details :</h2>
 <p>This is a library of multiple basic projects based on HTML, CSS & Vanilla Javascript .i use React as a framework </p>
 
